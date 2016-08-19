@@ -1,321 +1,176 @@
 {
     "flights": [
         {
-            "id": "QR579",
+            "id": "FB0290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
             "status": "Arrived",
-            "departure_date": "2016-07-29",
-            "departure_date_display":"Fri Jul 29 2016",
+            "departure_date": "2016-10-08",
+            "departure_date_display": "Sat Oct 08 2016",
             "scheduled": {
-                "departure": "Fri 29 July 03:30",
-                "arrival": "Fri 29 July 04:45"
+                "departure": "Sat 08 Oct 03:30",
+                "arrival": "Sat 08 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Fri 29 July 03:49",
+                    "time": "Sat 08 Oct 03:49",
                     "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Fri 29 July 05:14",
+                    "time": "Sat 08 Oct 05:14",
                     "state": "Arrived"
                 }
             }
         },
         {
-            "id": "QR579",
+            "id": "FB0290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
             "status": "Arrived",
-            "departure_date": "2016-07-30",
-            "departure_date_display":"Sat Jul 30 2016",
+            "departure_date": "2016-10-09",
+            "departure_date_display": "Sun Oct 09 2016",
             "scheduled": {
-                "departure": "Sat 30 July 03:30",
-                "arrival": "Sat 30 July 04:45"
+                "departure": "Sun 09 Oct 03:30",
+                "arrival": "Sun 09 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Sat 30 July 03:49",
+                    "time": "Sun 09 Oct 03:49",
                     "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Sat 30 July 05:14",
+                    "time": "Sun 09 Oct 05:14",
                     "state": "Arrived"
                 }
             }
         },
         {
-            "id": "QR579",
+            "id": "FB0290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
-            "status": "Scheduled",
-            "departure_date": "2016-07-31",
-            "departure_date_display":"Sun Jul 31 2016",
+            "status": "Arrived",
+            "departure_date": "2016-10-10",
+            "departure_date_display": "Mon Oct 10 2016",
             "scheduled": {
-                "departure": "Sun 31 July 03:30",
-                "arrival": "Sun 31 July 04:45"
+                "departure": "Mon 10 Oct 03:30",
+                "arrival": "Mon 10 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Sun 31 July 03:30",
-                    "state": "Estimated"
+                    "time": "Mon 10 Oct 03:49",
+                    "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Sun 31 July 04:45",
-                    "state": "Estimated"
+                    "time": "Mon 10 Oct 05:14",
+                    "state": "Arrived"
                 }
             }
         },
         {
-            "id": "QR579",
+            "id": "FB0280",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
-            "status": "Scheduled",
-            "departure_date": "2016-08-01",
-            "departure_date_display":"Mon 01 Aug",
+            "status": "Arrived",
+            "departure_date": "2016-10-08",
+            "departure_date_display": "Sat Oct 08 2016",
             "scheduled": {
-                "departure": "Mon 01 Aug 03:30",
-                "arrival": "Mon 01 Aug 04:45"
+                "departure": "Sat 08 Oct 03:30",
+                "arrival": "Sat 08 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Mon 01 Aug 03:30",
-                    "state": "Estimated"
+                    "time": "Sat 08 Oct 03:49",
+                    "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Mon 01 Aug 04:45",
-                    "state": "Estimated"
+                    "time": "Sat 08 Oct 05:14",
+                    "state": "Arrived"
                 }
             }
         },
         {
-            "id": "QR579",
+            "id": "FB0280",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
-            "status": "Scheduled",
-            "departure_date": "2016-08-02",
-            "departure_date_display":"Tue 01 Aug",
+            "status": "Arrived",
+            "departure_date": "2016-10-09",
+            "departure_date_display": "Sun Oct 09 2016",
             "scheduled": {
-                "departure": "Tue 02 Aug 03:30",
-                "arrival": "Tue 02 Aug 04:45"
+                "departure": "Sun 09 Oct 03:30",
+                "arrival": "Sun 09 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Tue 02 Aug 03:30",
-                    "state": "Estimated"
+                    "time": "Sun 09 Oct 03:49",
+                    "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Tue 02 Aug 04:45",
-                    "state": "Estimated"
+                    "time": "Sun 09 Oct 05:14",
+                    "state": "Arrived"
                 }
             }
         },
         {
-            "id": "QR1034",
+            "id": "FB0280",
             "departureAirport": {
-                "name": "Doha ",
-                "code": "DOH",
-                "terminal": "2"
-            },
-            "arrivalAirport": {
-                "name": "Dubai World Central ",
-                "code": "DWC"
-            },
-            "status": "Scheduled",
-            "departure_date": "2016-07-27",
-            "departure_date_display":"Wed 27 July",
-            "scheduled": {
-                "departure": "Wed 27 July 20:05",
-                "arrival": "Wed 27 July 22:15"
-            },
-            "lastupdated": {
-                "departure": {
-                    "time": "Wed 27 July 20:05",
-                    "state": "Estimated"
-                },
-                "arrival": {
-                    "time": "Wed 27 July 22:15",
-                    "state": "Estimated"
-                }
-            }
-        },
-        {
-            "id": "QR1034",
-            "departureAirport": {
-                "name": "Doha ",
-                "code": "DOH",
-                "terminal": "2"
-            },
-            "arrivalAirport": {
-                "name": "Dubai World Central ",
-                "code": "DWC"
-            },
-            "status": "Scheduled",
-            "departure_date": "2016-07-28",
-            "departure_date_display":"Thu  28 July",
-            "scheduled": {
-                "departure": "Thu 28 July 20:05",
-                "arrival": "Thu 28 July 22:15"
-            },
-            "lastupdated": {
-                "departure": {
-                    "time": "Thu 28 July 20:05",
-                    "state": "Estimated"
-                },
-                "arrival": {
-                    "time": "Thu 28 July 22:15",
-                    "state": "Estimated"
-                }
-            }
-        },
-        {
-            "id": "QR1034",
-            "departureAirport": {
-                "name": "Doha ",
-                "code": "DOH",
-                "terminal": "2"
-            },
-            "arrivalAirport": {
-                "name": "Dubai World Central ",
-                "code": "DWC"
-            },
-            "status": "Scheduled",
-            "departure_date": "2016-07-29",
-            "departure_date_display":"Fri 29 July",
-            "scheduled": {
-                "departure": "Fri 29 July 20:05",
-                "arrival": "Fri 17 July 22:15"
-            },
-            "lastupdated": {
-                "departure": {
-                    "time": "Fri 29 July 20:05",
-                    "state": "Estimated"
-                },
-                "arrival": {
-                    "time": "Fri 29 July 22:15",
-                    "state": "Estimated"
-                }
-            }
-        },
-        {
-            "id": "QR501",
-            "departureAirport": {
-                "name": "Hyderabad ",
-                "code": "HYD",
+                "name": "Delhi",
+                "code": "DEL",
                 "terminal": "3"
             },
             "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
+                "name": "Dubai",
+                "code": "DXB"
             },
-            "status": "Scheduled",
-            "departure_date": "2016-07-27",
-            "departure_date_display":"Wed 27 July",
+            "status": "Arrived",
+            "departure_date": "2016-10-10",
+            "departure_date_display": "Mon Oct 10 2016",
             "scheduled": {
-                "departure": "Wed 27 July 03:30",
-                "arrival": "Wed 27 July 05:15"
+                "departure": "Mon 10 Oct 03:30",
+                "arrival": "Mon 10 Oct 04:45"
             },
             "lastupdated": {
                 "departure": {
-                    "time": "Wed 27 July 03:30",
-                    "state": "Estimated"
+                    "time": "Mon 10 Oct 03:49",
+                    "state": "Departed"
                 },
                 "arrival": {
-                    "time": "Wed 27 July 05:15",
-                    "state": "Estimated"
-                }
-            }
-        },
-        {
-            "id": "QR501",
-            "departureAirport": {
-                "name": "Hyderabad ",
-                "code": "HYD",
-                "terminal": "3"
-            },
-            "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
-            },
-            "status": "Scheduled",
-            "departure_date": "2016-07-28",
-            "departure_date_display":"Thu 28 July",
-            "scheduled": {
-                "departure": "Thu 28 July 03:30",
-                "arrival": "Thu 28 July 05:15"
-            },
-            "lastupdated": {
-                "departure": {
-                    "time": "Thu 28 July 03:30",
-                    "state": "Estimated"
-                },
-                "arrival": {
-                    "time": "Thu 28 July 05:15",
-                    "state": "Estimated"
-                }
-            }
-        },
-        {
-            "id": "QR501",
-            "departureAirport": {
-                "name": "Hyderabad ",
-                "code": "HYD",
-                "terminal": "3"
-            },
-            "arrivalAirport": {
-                "name": "Doha",
-                "code": "DOH"
-            },
-            "status": "Scheduled",
-            "departure_date": "2016-07-29",
-            "departure_date_display":"Fri 29 July",
-            "scheduled": {
-                "departure": "Fri 29 July 03:30",
-                "arrival": "Fri 29 July 05:15"
-            },
-            "lastupdated": {
-                "departure": {
-                    "time": "Fri 29 July 03:30",
-                    "state": "Estimated"
-                },
-                "arrival": {
-                    "time": "Fri 29 July 05:15",
-                    "state": "Estimated"
+                    "time": "Mon 10 Oct 05:14",
+                    "state": "Arrived"
                 }
             }
         }

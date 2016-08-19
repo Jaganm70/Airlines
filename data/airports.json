@@ -7,10 +7,10 @@
             "countryname": "India"
         },
         {
-            "name": "Doha, Hamad International Airport",
-            "citycode": "DOH",
-            "city": "Doha",
-            "countryname": "Qatar"
+            "name": "Dubai, Dubai International Airport",
+            "citycode": "DXB",
+            "city": "Dubai",
+            "countryname": "United Arab Emirates"
         }
     ]
 }

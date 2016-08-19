@@ -1,7 +1,7 @@
 {
     "flights": [
         {
-            "id": "FB0290",
+            "id": "FB290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
@@ -30,7 +30,7 @@
             }
         },
         {
-            "id": "FB0290",
+            "id": "FB290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "id": "FB0290",
+            "id": "FB290",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
@@ -88,7 +88,7 @@
             }
         },
         {
-            "id": "FB0280",
+            "id": "FB280",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "FB0280",
+            "id": "FB280",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",
@@ -146,7 +146,7 @@
             }
         },
         {
-            "id": "FB0280",
+            "id": "FB280",
             "departureAirport": {
                 "name": "Delhi",
                 "code": "DEL",

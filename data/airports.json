@@ -7,10 +7,10 @@
             "countryname": "India"
         },
         {
-            "name": "Dubai, Dubai International Airport",
-            "citycode": "DXB",
-            "city": "Dubai",
-            "countryname": "United Arab Emirates"
+            "name": "Singapore, Changi International Airport",
+            "citycode": "SG",
+            "city": "Singapore",
+            "countryname": "Singapore"
         }
     ]
 }

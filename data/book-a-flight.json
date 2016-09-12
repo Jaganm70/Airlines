@@ -1,6 +1,7 @@
 {
     "flights": [
         {
+            "UUID": "123",
             "id": "FB0290",
             "name": "FB 0290, Airbus A321",
             "operator": "XYZ Airways",
@@ -15,16 +16,16 @@
                 "date": "Sat , 01 Oct 2016"
             },
             "arrivalairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai, Dubai International Airport",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "08:15",
                 "date": "Sat, 01 Oct 2016"
             },
             "classes": [
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "26,707.00",
+                    "price": "400",
                     "cancellation": "2015 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -33,7 +34,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "29,793.00",
+                    "price": "420",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -42,7 +43,7 @@
                 },
                 {
                     "name": "ECONOMY FLEXI",
-                    "price": "44,138.00",
+                    "price": "500",
                     "cancellation": "Free of charge",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -51,7 +52,7 @@
                 },
                 {
                     "name": "BUSINESS SAVER",
-                    "price": "57,438.00",
+                    "price": "615",
                     "cancellation": "6720 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -61,6 +62,7 @@
             ]
         },
         {
+            "UUID": "124",
             "id": "FB0280",
             "name": "FB 0280, Airbus A330-300",
             "operator": "ABC Airways",
@@ -75,16 +77,16 @@
                 "date": "Mon , 01 Oct 2016"
             },
             "arrivalairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai, Hamad International Airport Qata",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "01:10",
                 "date": "Mon , 01 Oct 2016"
             },
             "classes": [
                 {
                     "name": "ECONOMY PROMO",
-                    "price": "12,723.00",
+                    "price": "420",
                     "cancellation": "2355 INR",
                     "changes": "2015 INR",
                     "noshow": "Non-refundable",
@@ -93,7 +95,7 @@
                 },
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "16,167.00",
+                    "price": "475",
                     "cancellation": "2015 INR",
                     "changes": "1345 INR",
                     "noshow": "3360 INR",
@@ -102,7 +104,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "37,108.00",
+                    "price": "520",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -111,7 +113,7 @@
                 },
                 {
                     "name": "ECONOMY FLEXI",
-                    "price": "44,138.00",
+                    "price": "580",
                     "cancellation": "Free of charge",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -120,7 +122,7 @@
                 },
                 {
                     "name": "BUSINESS SAVER",
-                    "price": "57,438.00",
+                    "price": "620",
                     "cancellation": "6720 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -130,6 +132,7 @@
             ]
         },
         {
+            "UUID": "125",
             "id": "FB0290",
             "name": "FB 0290, Airbus A321",
             "operator": "XYZ Airways",
@@ -137,9 +140,9 @@
             "departuredate": "2016-10-05",
             "duration": "4h 15m",
             "departureairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai, Dubai International Airport",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "04:15",
                 "date": "Wed , 05 Oct 2016"
             },
@@ -153,7 +156,7 @@
             "classes": [
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "26,707.00",
+                    "price": "450.00",
                     "cancellation": "2015 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -162,7 +165,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "29,793.00",
+                    "price": "480.00",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -171,7 +174,7 @@
                 },
                 {
                     "name": "ECONOMY FLEXI",
-                    "price": "44,138.00",
+                    "price": "520.00",
                     "cancellation": "Free of charge",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -180,7 +183,7 @@
                 },
                 {
                     "name": "BUSINESS SAVER",
-                    "price": "57,438.00",
+                    "price": "600.00",
                     "cancellation": "6720 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -190,6 +193,7 @@
             ]
         },
         {
+            "UUID": "126",
             "id": "FB0280",
             "name": "FB 0280, Airbus A425",
             "operator": "ABC Airways",
@@ -197,9 +201,9 @@
             "departuredate": "2016-10-05",
             "duration": "3h 15m",
             "departureairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai,Dubai International Airport",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "09:15",
                 "date": "Wed , 05 Oct 2016"
             },
@@ -213,7 +217,7 @@
             "classes": [
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "26,707.00",
+                    "price": "400.00",
                     "cancellation": "2015 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -222,7 +226,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "29,793.00",
+                    "price": "430.00",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -232,6 +236,7 @@
             ]
         },
         {
+            "UUID": "127",
             "id": "FB0290",
             "name": "QR 0501, Airbus A321",
             "operator": "Qatar Airways",
@@ -246,16 +251,16 @@
                 "date": "Mon , 10 Oct 2016"
             },
             "arrivalairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai, Dubai International Airport ",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "05:15",
                 "date": "Mon , 10 Oct 2016"
             },
             "classes": [
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "26,707.00",
+                    "price": "480",
                     "cancellation": "2015 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -264,7 +269,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "29,793.00",
+                    "price": "520",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -273,7 +278,7 @@
                 },
                 {
                     "name": "ECONOMY FLEXI",
-                    "price": "44,138.00",
+                    "price": "580",
                     "cancellation": "Free of charge",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -282,7 +287,7 @@
                 },
                 {
                     "name": "BUSINESS SAVER",
-                    "price": "57,438.00",
+                    "price": "650",
                     "cancellation": "6720 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -292,6 +297,7 @@
             ]
         },
         {
+            "UUID": "128",
             "id": "FB0280",
             "name": "FB 0280, Airbus A330-300",
             "operator": "ABC Airways",
@@ -306,16 +312,16 @@
                 "date": "Mon , 10 Oct 2016"
             },
             "arrivalairport": {
-                "code": "DXB",
-                "city": "Dubai",
-                "name": "Dubai, Dubai International Airport ",
+                "code": "SG",
+                "city": "Singapore",
+                "name": "Singapore, Changi International Airport",
                 "time": "11:20",
                 "date": "Mon , 10 Oct 2016"
             },
             "classes": [
                 {
                     "name": "ECONOMY PROMO",
-                    "price": "12,723.00",
+                    "price": "500",
                     "cancellation": "2355 INR",
                     "changes": "2015 INR",
                     "noshow": "Non-refundable",
@@ -324,7 +330,7 @@
                 },
                 {
                     "name": "ECONOMY SAVER",
-                    "price": "16,167.00",
+                    "price": "540",
                     "cancellation": "2015 INR",
                     "changes": "1345 INR",
                     "noshow": "3360 INR",
@@ -333,7 +339,7 @@
                 },
                 {
                     "name": "ECONOMY VALUE",
-                    "price": "37,108.00",
+                    "price": "600",
                     "cancellation": "1345 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -342,7 +348,7 @@
                 },
                 {
                     "name": "ECONOMY FLEXI",
-                    "price": "44,138.00",
+                    "price": "650",
                     "cancellation": "Free of charge",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",
@@ -351,7 +357,7 @@
                 },
                 {
                     "name": "BUSINESS SAVER",
-                    "price": "57,438.00",
+                    "price": "680",
                     "cancellation": "6720 INR",
                     "changes": "Free of charge",
                     "noshow": "3360 INR",

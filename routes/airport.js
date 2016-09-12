@@ -12,7 +12,7 @@ router.get('/:query', function(req, res, next) {
         "airports":[]
     };
     	obj.airports.map(function(airport){
-    		if(airport.name.toLowerCase().indexOf(query)> -1 || airport.city.toLowerCase().indexOf(query)>-1 || airport.countryname.toLowerCase().indexOf(query)>-1){
+    		if(airport.citycode.toLowerCase().indexOf(query)> -1 || airport.name.toLowerCase().indexOf(query)> -1 || airport.city.toLowerCase().indexOf(query)>-1 || airport.countryname.toLowerCase().indexOf(query)>-1){
     		    result.airports.push(airport);
     		}
     	});

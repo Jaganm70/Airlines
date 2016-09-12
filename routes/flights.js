@@ -63,23 +63,30 @@ router.post('/book/ticket', function(req, res, next) {
     for( var i=0; i < 4; i++ ){
         text += possible.charAt(Math.floor(Math.random() * possible.length));
     }
-
-	var result;
-	  obj.flights.map(function(flight){
-    		if(flight.id === payload.id){
+  
+	var result = null;
+    var flights1 = obj.flights;
+    var flights2 = obj.flights;
+	  flights1.map(function(flight){
+    		if(flight.UUID === payload.id){
+                console.log('>>>1');
     			flight.bookingId = 'AL'+text;
     			flight.bookedclass = payload.category;
+                result =null;
     		    result = flight;
     		}
     	});
-      if(typeof(payload.rid) !== 'undefined' && payload.rid &&  payload.rid !== "" && typeof(payload.rcategory) !== 'undefined'&& payload.rcategory && payload.rcategory !== ""){
-      	obj.flights.map(function(flight){
-    		if(flight.id === payload.rid){
-    			flight.bookedclass = payload.rcategory;
-    		    result.returnbooking = flight;
+      //if(typeof(payload.rid) !== 'undefined' && payload.rid &&  payload.rid !== "" && typeof(payload.rcategory) !== 'undefined'&& payload.rcategory && payload.rcategory !== ""){
+      	flights2.map(function(flight1){
+    		if(flight1.UUID === payload.rid){
+                console.log('>>>2');
+    			flight1.bookedclass = payload.rcategory;
+                result.returnbooking =null;
+    		    result.returnbooking = flight1;
     		}
     	});
-      }		
+      //}	
+      
 	  res.send(result);
 });
 

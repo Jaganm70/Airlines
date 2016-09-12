@@ -47,7 +47,7 @@ router.get('/instance/:id', function(req, res, next) {
 	var id = req.params.id
 	
     	obj.flights.map(function(flight){
-    		if(flight.id === id){
+    		if(flight.UUID === id){
     		    res.send(flight);		
     		}
     	}); 	
